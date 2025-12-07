@@ -1,0 +1,3 @@
+add_executable(DynamicDecorator DynamicDecorator.cpp )
+add_executable(FunctionalDecorator FunctionalDecorator.cpp )
+add_executable(StaticDecorator StaticDecorator.cpp )

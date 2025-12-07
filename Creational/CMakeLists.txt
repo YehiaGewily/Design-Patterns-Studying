@@ -1,0 +1,5 @@
+add_executable(Multiton Multiton.cpp )
+add_executable(Prototype Prototype.cpp )
+add_executable(SingletonDependencyInjection SingletonDependencyInjection.cpp )
+add_subdirectory(Builder)
+add_subdirectory(Factory)

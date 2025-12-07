@@ -1,0 +1,7 @@
+add_executable(Adapter Adapter.cpp )
+add_executable(Facade Facade.cpp )
+add_subdirectory(Bridge)
+add_subdirectory(Composite)
+add_subdirectory(Decorator)
+add_subdirectory(Flyweight)
+add_subdirectory(Proxy)
